@@ -1,0 +1,28 @@
+🌀 Git merge une el historial de dos ramas.
+
+Sirve para integrar los cambios de una rama (por ejemplo, feature) en otra (como main).
+
+Suele realizarse en tu repositorio local, antes de subir nada.
+
+Puedes hacerlo mediante git merge o rebase (más limpio pero diferente).
+
+Es útil para integrar trabajo colaborativo.
+
+A veces crea conflictos si hay diferencias entre ramas.
+
+Se puede resolver manualmente antes de hacer commit.
+
+Una vez que el merge está hecho y confirmado...
+
+🧭 Entra en juego el push.
+
+git push envía tus commits al repositorio remoto (por ejemplo, en GitHub).
+
+Es lo que hace visibles tus cambios a los demás.
+
+Sin push, tus cambios sólo viven en tu máquina.
+
+Push no une ramas, solo las “publica”.
+
+Es como decir: “lo mío ya está listo, aquí va”.
+
