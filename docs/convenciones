@@ -20,7 +20,7 @@ git push envía tus commits al repositorio remoto (por ejemplo, en GitHub).
 
 Es lo que hace visibles tus cambios a los demás.
 
-Sin push, tus cambios sólo viven en tu máquina.
+Sin push, tus cambios sólo viven en tu máquina. black el españolito
 
 Push no une ramas, solo las “publica”.
 
